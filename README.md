@@ -32,3 +32,24 @@ In this project, I integrated secure password hashing and comparison functionali
     </ul>
   </li>
 </ul>
+Setup Instructions and Running the Code in a Browser
+Download the Project
+Clone or download the project files from the repository.
+
+Navigate to the Project Directory
+Open a terminal and navigate (cd) into the project directory. cd FCC-bcrypt
+
+Install Dependencies
+Run the following command to install the necessary Node.js packages:
+
+bash
+Copy code
+npm install
+Start the Server
+Run the server with:
+
+bash
+Copy code
+npm start
+Open the Application in Your Browser
+By default, the app runs at http://localhost:3000/. Open this URL in your browser to interact with the application.
